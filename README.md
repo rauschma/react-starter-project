@@ -18,3 +18,5 @@ Development:
     * Keep the console open to see errors and warnings
 
 You can check out hot reloading by making changes to the JavaScript source code. You’ll see the results of those changes in the browser right away.
+
+No support for testing, yet, I’m still in the process of figuring out what I want there.
