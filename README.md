@@ -1,5 +1,11 @@
 # React starter project
 
+A minimal project to get started with React:
+
+* webpack and webpack-dev-server
+* ES6 and JSX via Babel 
+* hot module reloading via [React Hot Loader](https://github.com/gaearon/react-hot-loader)
+
 Installation:
 
 ```
