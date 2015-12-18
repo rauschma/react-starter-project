@@ -3,7 +3,7 @@ import {render} from 'react-dom';
 
 class Main extends React.Component {
     constructor() {
-        super();
+        super(...arguments);
         this.state = {
             clickCount: 0,
         };
